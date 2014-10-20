@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blain Maguire</title>
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://localhost:8080</link>
+    <description></description>
+    <pubDate>Mon, 20 Oct 2014 01:00:00 +0100</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Migrating to Wintersmith</title>
+      <link>http://localhost:8080/articles/hello-world/</link>
+      <pubDate>Mon, 20 Oct 2014 01:00:00 +0100</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/hello-world/</guid>
+      <author></author>
+      <description>&lt;p&gt;I’ve migrated my site from &lt;a href=&quot;http://octopress.org&quot;&gt;Octopress&lt;/a&gt; to &lt;a href=&quot;http://Wintersmith.io&quot;&gt;Wintersmith&lt;/a&gt;. Seeing as I’m using Node.js a lot these days, I figured it was worth trying out a static site generator in the same language.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It didn’t take very long to get up and running. Customising the theme/template to my liking on the other hand took a while. The combination of Jade templating and CoffeeScript is fine for me but it may be a little off-putting if you’re not already familar with either.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
